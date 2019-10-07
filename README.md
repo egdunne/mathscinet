@@ -1,2 +1,2 @@
 # mathscinet
-A place to keep code for doing things with mathscinet.
+A place to keep files related to mathscinet.
